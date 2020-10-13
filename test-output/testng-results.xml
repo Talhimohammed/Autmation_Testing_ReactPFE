@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="111753" started-at="2020-10-11T22:27:16Z" finished-at="2020-10-11T22:29:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="111753" started-at="2020-10-11T22:27:16Z" finished-at="2020-10-11T22:29:08Z">
+      <class name="firstscript">
+        <test-method status="PASS" signature="setUp()" name="setUp" duration-ms="57500" started-at="2020-10-11T22:27:16Z" finished-at="2020-10-11T22:28:13Z">
+        </test-method>
+        <test-method status="PASS" signature="A_TEST()" name="A_TEST" duration-ms="5035" started-at="2020-10-11T22:28:13Z" finished-at="2020-10-11T22:28:18Z">
+        </test-method>
+        <test-method status="PASS" signature="SendMeeting()" name="SendMeeting" duration-ms="36154" started-at="2020-10-11T22:28:18Z" finished-at="2020-10-11T22:28:55Z">
+        </test-method>
+        <test-method status="PASS" signature="Meetings()" name="Meetings" duration-ms="3794" started-at="2020-10-11T22:28:55Z" finished-at="2020-10-11T22:28:58Z">
+        </test-method>
+        <test-method status="PASS" signature="Posts()" name="Posts" duration-ms="9231" started-at="2020-10-11T22:28:58Z" finished-at="2020-10-11T22:29:08Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

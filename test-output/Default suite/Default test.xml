@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-O9ID6F9" tests="5" failures="0" timestamp="11 Oct 2020 21:29:08 GMT" time="111.753" errors="0">
+  <testcase name="setUp" time="57.5" classname="firstscript"/>
+  <testcase name="A_TEST" time="5.035" classname="firstscript"/>
+  <testcase name="SendMeeting" time="36.154" classname="firstscript"/>
+  <testcase name="Meetings" time="3.794" classname="firstscript"/>
+  <testcase name="Posts" time="9.231" classname="firstscript"/>
+</testsuite>
